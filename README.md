@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+<a href="https://github.com/ShivamJoker/shivamjoker/commits/master/music-badge.svg">
+<img alt="listening to badge" src="https://listen2.netlify.app/.netlify/functions/getimg" width="300">
+</a>
 
-<!--
+
 **mrinaljain/mrinaljain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
